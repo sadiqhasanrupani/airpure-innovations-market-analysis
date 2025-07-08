@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+*.egg-info/
+
+# Data
+*.csv
+*.pbix
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+
+# Notebook script outputs
+notebooks/.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore the Power BI cache
+PowerBi Analysis/*
+
+# Miscellaneous
+*.log
+*.out
+*.tmp
+
