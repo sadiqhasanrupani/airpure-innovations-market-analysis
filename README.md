@@ -1,3 +1,4 @@
+```bash
 my_data_project/
 ├── data/
 │   ├── raw/
@@ -23,3 +24,4 @@ my_data_project/
     └── issues_log.md              # Detailed markdown version of the issues log
     └── data_dictionary.md         # Definitions of columns, including new ones
     └── data_sources.md            # Information on where raw data came from
+```
