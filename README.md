@@ -11,7 +11,7 @@ A personal project that simulates the role of a data analyst for a fictional air
 ├── 📁 data/                   # Cleaned and raw datasets (AQI, health, EV, etc.)
 ├── 📁 docs/                   # Supporting documents (metadata, pdfs, etc.)
 ├── 📁 logo-with-background/   # Brand assets with background
-├── 📁 notebooks/              # Jupyter notebooks for EDA and analysis
+├── 📁 notebooks/              # **Jupyter** notebooks for EDA and analysis
 ├── 📁 PowerBi Analysis/       # Power BI dashboard (.pbix) and exports
 ├── 📁 presentation/           # PPT deck or video presentation for stakeholders
 ├── 📁 src/                    # Scripts and utility functions (Python/ETL)
@@ -19,6 +19,7 @@ A personal project that simulates the role of a data analyst for a fictional air
 ├── logo-without-background.png # Logo image (transparent background)
 ├── .gitignore
 └── README.md
+```
 
 ---
 
